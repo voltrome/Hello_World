@@ -45,3 +45,5 @@ git merge <branch name>
 
 git branch -d <branch name> (delete branch from working area)
 git push origin --delete <branch name> (delete branch from remote repository)
+
+a lot more !!!
