@@ -1,0 +1,47 @@
+# First things to do
+
+git config --global user.name "Jannatul Firdous"
+git config --global user.email "lordvoltrome@gmail.com"
+git config --list
+git config --help
+
+# Second things to do
+
+git init (Initialize directory)
+ls -la (show files in directory)
+rm -rf .git/.text/.epub (remove extension from git)
+
+#third things to do
+
+git status (show status)
+touch .gitignore (create a getignore file where all things are get ignore)
+git add -A (add all in staging area)
+git commit -m "Comments about commit"
+git log
+git touch .gitignored
+git reset <file name> (unstage)
+
+# Fourth things to do
+
+git clone <url> <where to clone (.)> (clone a url of your remote repository )
+git remote -v
+git branch -a
+
+#Fifth things to do
+
+git diff (show difference)
+git pull origin master
+git push origin master
+
+
+#Sixth thigs to do
+
+git branch <branch name> (Create branch working area)
+git checkout <branch name> (Select branch)
+git push -u origin <branch name>
+git merge <branch name>
+
+#seventh things to do
+
+git branch -d <branch name> (delete branch from working area)
+git push origin --delete <branch name> (delete branch from remote repository)
